@@ -1,5 +1,4 @@
 .intro__content {
     display: flex;
     flex-direction: column;
-    min-height: 429px;
 }

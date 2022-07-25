@@ -1,4 +1,4 @@
-.footer__links {
+.footer__menu-items {
     display: flex;
     margin: 0;
     padding: 0;
@@ -7,7 +7,7 @@
 
 
 @media (max-width: 670px) {
-    .footer__links {
+    .footer__menu-items {
         flex-direction: column;
     }
 }

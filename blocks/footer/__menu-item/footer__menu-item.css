@@ -1,15 +1,15 @@
-.footer__link-item {
+.footer__menu-item {
     list-style: none;
     margin-right: 18px;
 }
 
-.footer__link-item:last-child {
+.footer__menu-item:last-child {
     margin: 0;
 }
 
 
 @media (max-width: 670px) {
-    .footer__link-item {
+    .footer__menu-item {
         margin-bottom: 32px;
     }
 }

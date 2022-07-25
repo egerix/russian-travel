@@ -1,6 +1,13 @@
 .cover {
     width: 100%;
     max-width: 1184px;
+    max-height: 740px;
     padding-top: 92px;
     box-sizing: border-box;
+}
+
+@media (max-width: 670px) {
+    .cover {
+        padding-top: 66px;
+    }
 }
