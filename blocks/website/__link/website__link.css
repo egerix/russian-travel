@@ -1,0 +1,12 @@
+.website__link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: underline;
+    color: white;
+}
+
+.website__link:visited {
+    color: white;
+}

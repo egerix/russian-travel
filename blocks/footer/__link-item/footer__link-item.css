@@ -1,0 +1,15 @@
+.footer__link-item {
+    list-style: none;
+    margin-right: 18px;
+}
+
+.footer__link-item:last-child {
+    margin: 0;
+}
+
+
+@media (max-width: 670px) {
+    .footer__link-item {
+        margin-bottom: 32px;
+    }
+}

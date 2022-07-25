@@ -1,0 +1,9 @@
+.place__description {
+    grid-area: text;
+}
+
+@media (max-width: 460px) {
+    .place__description {
+        grid-area: text;
+    }
+}
