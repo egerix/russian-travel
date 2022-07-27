@@ -1,9 +1,11 @@
 .cover {
     width: 100%;
     max-width: 1184px;
-    max-height: 740px;
     padding-top: 92px;
-    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
 }
 
 @media (max-width: 670px) {
